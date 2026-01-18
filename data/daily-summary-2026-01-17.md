@@ -1,0 +1,68 @@
+# Oak Park Government Daily Summary - 2026-01-17
+
+Oak Park is bracing for dangerous cold weather Monday with below-zero wind chills. Good Shepherd Lutheran Church will serve as a warming center from 8 a.m. Monday through 8 a.m. Tuesday, while public libraries will be closed for Martin Luther King Jr. Day. Residents needing transportation to warming centers can call police at 708.386.3800.
+
+**Major Budget and Tax News**
+
+The Village adopted its $223 million 2026 budget with modest utility increases. Refuse collection will cost $31.13 monthly for 96-gallon carts, and water rates rise to $11.94 per 1,000 gallons. Meanwhile, Oak Park residents are finally receiving delayed property tax bills showing a uniform 4.5% increase. The bills were due December 15, but delays pushed next year's first installment from March to April 1, 2026. Property owners have one more appeal opportunity from December 3-12 if they didn't file during the first period.
+
+**School District Changes**
+
+District 97 is overhauling its gifted program, opening advanced learning to all students rather than just those previously identified. Parents can apply March 2-April 24 for single-subject or whole-grade acceleration, with students needing 80% on evaluations. The district approved a 2026-27 calendar running July 26 to June 9 with 176 student days.
+
+**Looking Ahead**
+
+The Park District will ask voters to approve a $40 million referendum for an indoor aquatics facility at Ridgeland Common on the March 17 primary ballot. The project would cost homeowners about $160 annually for a $430,000 home. Information sessions are scheduled for January 22, February 4, and February 25 at 7 p.m.
+
+OPRF High School finals run December 17-19 with modified schedules, while the library launched a "Six in 2026" wellness campaign encouraging residents to read just six minutes daily to reduce stress.
+
+---
+
+## Village of Oak Park
+
+The Village of Oak Park is warning residents about dangerously cold weather with below-zero wind chills forecast for Monday, January 19, 2026. Good Shepherd Lutheran Church at 611 Randolph St. will open as a warming center from 8 a.m. Monday through 8 a.m. Tuesday, while the public library branches will be closed for Martin Luther King Jr. Day. Residents needing transportation to warming centers can call the police non-emergency line at 708.386.3800.
+
+The Village has earned an 'A' score from CDP for environmental leadership, making it the only Illinois municipality to achieve this distinction. The rating recognizes Oak Park's comprehensive "Climate Ready Oak Park" plan, including emissions inventory, climate risk assessment, and formal political commitment to sustainability. Additionally, Oak Park is transitioning to a new emergency alert system through Everbridge, requiring all residents to register at www.oak-park.us/notifyme to continue receiving notifications about severe weather, parking restrictions, and other emergencies.
+
+The Village has adopted its 2026 budget totaling $223 million, with modest utility rate increases coming for residents. Refuse collection will rise slightly to $31.13 monthly for 96-gallon carts, while water rates increase to $11.94 per 1,000 gallons. Property taxes will fund 36% of the $96 million general fund. The Village is also celebrating one year of its E.C.H.O. community care program, which completed over 700 referrals connecting residents with essential services from housing assistance to wellness checks.
+
+## Oak Park Township
+
+**Township Addresses Property Tax Delays and Appeal Opportunities**
+
+Oak Park residents are finally receiving their second installment property tax bills after significant delays caused by Cook County's computer system upgrade. The bills, mailed November 14 with a December 15 due date, show a relatively uniform 4.5% increase across the township - a stark contrast to last year's highly variable increases that ranged from reductions to double-digit hikes following the 2023 reassessment. The delays have created complications with mortgage escrow accounts and pushed next year's first installment due date from March 1 to April 1, 2026.
+
+Property owners have a second chance to appeal their assessments during a 10-day window from December 3-12, but only if they didn't file during the first appeal period that closed in August. Township Assessor Ali ElSaffar's office is available at (708) 383-8005 to help residents determine if they previously filed and assist with new appeals. Additionally, Oak Park residents should consider applying for Cook County's expanded Homeowner Relief Fund, which offers $1,000 rebates to qualifying homeowners who experienced at least a 30% property tax increase. The application deadline is October 31, and many Oak Park residents likely qualify due to the 2023 reassessment impacts.
+
+## School District 97
+
+School District 97 has announced major changes to its academic acceleration program, making advanced learning opportunities available to all students rather than just those previously identified as gifted. Starting with information sessions on February 18, families can apply for either single-subject acceleration (advancing to higher-level classes in specific subjects) or whole-grade acceleration from March 2-April 24. Students must score 80% on a comprehensive evaluation including standardized tests and teacher assessments, with final decisions coming by June 2.
+
+The district has also released several upcoming events for families. Early childhood screening services are available for children ages 3-5 to assess developmental readiness before starting school - parents can schedule by calling 708.524.3134. For families with kindergarten-age children, an Early Entrance Family Information Session will be held January 28 at Julian Middle School to help parents understand early enrollment options.
+
+Looking ahead to next school year, District 97 has approved the 2026-27 academic calendar, which will begin July 26 and end June 9, featuring 176 student days organized into three trimesters. The district continues its superintendent search process with community input sessions and expects to make final interviews in early February. Additionally, eighth-graders voted to travel to Nashville for their March 2026 field trip, with the district committed to covering costs for students receiving free or reduced lunch to ensure all can participate.
+
+## OPRF High School District 200
+
+OPRF High School District 200 has several important announcements for families as the semester winds down. Final exams are scheduled for December 17-19, with a modified bell schedule from 8:00 a.m. to 1:20 p.m. each day. Students must attend their scheduled exam periods (including study halls and PE), and the district will extend open campus lunch privileges to all grade levels during exam days. Note that Skyward access will be unavailable from December 17 through January 8.
+
+The district is celebrating student achievement with its annual Prisms of Winter concert on December 11-12 at 7:00 p.m. in the auditorium. This immersive 90-minute musical experience features over 25 performances from choir, orchestra, band, and student ensembles throughout the entire auditorium space. The district has also welcomed Griff, its first full-time facility dog, who will support student wellness and be available Tuesdays and Thursdays during lunch in the Student Activity Center.
+
+For graduating seniors, the Oak Park Scholarship Foundation has opened its application process, offering scholarships across multiple fields including engineering, healthcare, trades, and the arts. The district is also seeking community nominations for its employee recognition program to honor outstanding educators and staff. Finally, don't forget to check the Lost & Found before December 19—any unclaimed items will be donated to charity after that date.
+
+## Park District of Oak Park
+
+The Park District of Oak Park has received multiple prestigious national and state awards in 2025, establishing itself as a leader in parks and recreation management. Most notably, the district won the National Gold Medal Award for Excellence in Park and Recreation Management for the third time in its history, competing against agencies serving similar-sized communities. The district also earned both state and national accreditation, including the Illinois Distinguished Accredited Agency Award and national CAPRA accreditation through the National Recreation and Park Association - recognition that only the highest-performing agencies achieve.
+
+The district's aquatics program earned the 2025 Platinum International Aquatic Safety Award, given only to the top 10% of aquatic safety teams nationwide. To qualify, Oak Park's lifeguards had to score 97.78% or higher on all safety observations and achieve "Exceed Industry Standards" ratings on three rigorous summer audits, including unannounced rescue drills.
+
+Looking ahead, residents will vote on a $40 million referendum for an indoor aquatics facility at Ridgeland Common on the March 17, 2026 primary ballot. The proposed facility would include a lap pool, therapy pool, indoor splash pad, and updated amenities, funded through 20-year bonds costing approximately $160 annually for a $430,000 home. The Park District is hosting community information sessions on January 22, February 4, and February 25 at 7 p.m. at the Community Recreation Center, with childcare available for those who RSVP.
+
+## Oak Park Public Library
+
+The Oak Park Public Library kicked off 2026 with an ambitious "Six in 2026" health and wellness campaign encouraging residents to read just six minutes daily. Based on University of Sussex research showing that six minutes of reading can significantly reduce stress and slow cognitive decline, the library is offering extensive winter programming including virtual Chair Yoga sessions every Tuesday at 12:30 pm, monthly Sound Bath Meditation sessions, and outdoor activities like nature walks and tree identification hikes partnered with Trailside Museum. The initiative also features virtual sessions on eco-friendly gardening, baking techniques, and an author talk with Pulitzer Prize winner Percival Everett on March 19.
+
+The library has also expanded digital services with hoopla's BingePass, giving cardholders seven days of unlimited streaming access to movies, TV shows, documentaries, and educational content from platforms like Curiosity Stream and BBC programming. For families, Children's Librarian staff has created over 400 early learning videos since 2020, now organized into 16 categories covering everything from Spanish language content to virtual field trips. Additionally, the library highlighted Creativebug, a crafting resource offering more than 1,000 video classes, and published comprehensive tech guides including webpage translation tutorials available in Spanish and Polish.
+
+Oak Park residents can also explore the library's annual "Best of 2025" reading and viewing recommendations curated by staff across all age groups, from adult fiction and teen selections to children's books and entertainment options. The library will celebrate Martin Luther King Jr. Day with a "Dream Hands" display at the Main Library through January 28, where residents can contribute their personal dreams to a community tribute, while digital resources about Dr. King remain available through platforms like Hoopla and Kanopy.
+

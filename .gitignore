@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.env
+*.log
+
+# Data - ignore downloads and raw HTML, but keep summaries
+data/*/*/downloads/
+data/*/*/raw/
+data/seen_hashes.json

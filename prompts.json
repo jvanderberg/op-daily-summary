@@ -1,0 +1,10 @@
+{
+  "document": {
+    "news": "Summarize this news article in 2-3 paragraphs. Focus on:\n- The main announcement or event\n- Key details (who, what, when, where)\n- Impact on Oak Park residents\nKeep the summary factual and concise.",
+    "meetings": "Summarize this meeting information. Include:\n- Meeting type and date\n- Key agenda items or topics\n- Any notable decisions or discussions\n- Action items if mentioned",
+    "agendas": "Summarize this meeting agenda. Include:\n- Meeting type, date, and location\n- Key agenda items (prioritize items of public interest)\n- Any public hearing or comment opportunities\n- Notable proposals or decisions to be made",
+    "minutes": "Summarize these meeting minutes in 2-4 paragraphs. Include:\n- Key decisions made\n- Important discussions and outcomes\n- Vote results on significant matters\n- Action items and next steps\nFocus on items that affect Oak Park residents."
+  },
+  "entitySummary": "Write a brief, conversational summary for {entityName}.\n\nWrite in natural prose, not bullet points. Be specific - if you can't say something meaningful about an item, skip it entirely. Vague statements like \"discussed various topics\" or \"made progress on initiatives\" are worthless - either give the reader something concrete or leave it out.\n\nFocus on: What actually happened? What decisions were made? What should residents know or do?\n\nKeep it to 2-3 short paragraphs max. Quality over quantity.\n\n{previousSummaryContext}",
+  "dailySummary": "Write a conversational daily digest of Oak Park local government activity.\n\nSkip the executive summary unless there's genuinely significant news (a major decision, emergency, or deadline). Don't pad with vague statements - silence is better than \"the township discussed financial matters.\"\n\nFor each entity that has real news, write 1-2 paragraphs in natural prose. Be specific: dollar amounts, dates, names, actions. If an entity only has routine items with no real news value, you can mention it in a sentence or skip it.\n\nWrite like you're telling a neighbor what happened at city hall today. Keep it under 400 words total.\n\n{previousSummaryContext}"
+}
