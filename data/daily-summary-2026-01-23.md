@@ -20,13 +20,6 @@ The Village has also announced that free flu and COVID-19 combination tests are 
 
 In other news, Oak Park earned an 'A' rating from CDP for environmental leadership, becoming the only Illinois municipality to receive this recognition among more than 1,000 cities that reported environmental data in 2025. The Village is also transitioning to a new emergency alert system through Everbridge - all residents need to register at oak-park.us/notifyme to continue receiving emergency notifications about severe weather, snow emergencies, and other important alerts.
 
-## School District 97
-
-I notice there's a mismatch between your item titles and the content you've provided. Both items appear to be the same internal governance document for School District 97's Board of Education protocols from July 27, 2021, rather than information about a superintendent town hall or an e-learning day.
-
-Since this is an administrative document outlining board member behavioral guidelines and procedures rather than current news or events, there isn't actionable information for Oak Park residents to summarize. The document establishes internal operating procedures for how board members should conduct themselves, communicate with the public, and handle various situations - but it doesn't announce any upcoming events, decisions, or actions that would directly impact families in the district.
-
-If you have the actual content about the January 29 superintendent town hall or the January 23 e-learning day, I'd be happy to provide a conversational summary of those events for District 97 families.
 
 ## OPRF High School District 200
 
